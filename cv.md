@@ -11,9 +11,11 @@ Phone number: _**+998 93 593 75 36**_
 I have started learn Front-End Development not so long ago. As I have already known Front-end web development is a great place to start your journey into the world of coding. I learned the basics of HTML, CSS and JavaScript on my own from online courses. I always strive to learn something new. I study hard and learn new materials fast. Now I am seeking an opportunity to extend my web development and multimedia editing skills. 
 
 - _**Skills:**_
-  - [x] Basics of HTML/CSS
+  - [x] Basics of HTML5
+  - [x] Basics of CSS3
+  - [x] Basics of JavaScript
   - [x] Photoshop
-  - [ ] JavaScript
+  
 
 - _**Code examples:**_
 ```javascript
