@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-size: 16px;
+    font-family: "Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    line-height: 1.5;
+    color: #24292e;
+}
+.wrap {
+    max-width: 1012px;
+    margin-right: auto;
+    margin-left: auto;
+}
+img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+}
+h1 {
+    font-size: 3em;
+    border-bottom: 1px solid #eaecef;
+    margin-bottom: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+}
+.main-list {
+    list-style-type: none;
+    text-align: center;
+    font-size: 2em;
+}
+.main-list p {
+    margin: 0;
+    padding: 0;
+}
+strong {
+    font-weight: 600;
+}
+a {
+    color: #0366d6;
+    text-decoration: none;
+}
+.skill-list {
+    padding-inline-start: 20px;
+}
+.skill-list-item {
+    list-style-type: none;
+}
+.code-example {
+    padding: 0 16px;
+    overflow: auto;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f6f8fa;
+}
+.code-example span {
+    color: #d14;
+}
