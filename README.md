@@ -1,1 +1,1 @@
-https://xiiforlearning.github.io/rsschool-cv/cv
+https://xiiforlearning.github.io/rsschool-cv/
